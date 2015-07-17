@@ -16,4 +16,5 @@ Some concepts I learned/used:
 -	game loops
 -	events
 -	assets/art
+
 Game development is extremely detail-oriented and time-consuming.  However, it is possibly the most rewarding form of programming.  For that, I respect it dearly.  There is much to learn and this is not even scratching the surface.  I have to brush up on my physics (for better collision detection and animations) and my maths (trigonometry, calculus, linear algebra).  Then there is artificial intelligence, and using 3D with DirectX, sounds, multithreading, and a whole slew of topics to learn and keep building on.  It is a commitment and I hope to tackle it in the future.
