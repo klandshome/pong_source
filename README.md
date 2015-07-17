@@ -1,5 +1,6 @@
 # pong_source
 Pong in C++
+
 download compressed file from link above
 
 To run the game just run “pong_file.exe” located inside the “pong_final” folder.  All the necessary libraries and assets are included in the folder.  To view the actual code, just look inside the “pong_source” folder.  Hit the space bar while running the game to change the angle of the ball and the speed it travels.  Move the paddle left and right with the arrows keys on the keyboard and try not to prevent the ball from passing the paddle.  If the ball passes, a message warning you will be displayed across the center of the window.  Close the program by “x-ing” out the window.
